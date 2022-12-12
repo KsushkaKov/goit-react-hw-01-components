@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/KsushkaKov/test-react.git/static/css/main.7acaea2f.css",
+    "main.js": "/KsushkaKov/test-react.git/static/js/main.07d3183d.js",
+    "index.html": "/KsushkaKov/test-react.git/index.html",
+    "main.7acaea2f.css.map": "/KsushkaKov/test-react.git/static/css/main.7acaea2f.css.map",
+    "main.07d3183d.js.map": "/KsushkaKov/test-react.git/static/js/main.07d3183d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7acaea2f.css",
+    "static/js/main.07d3183d.js"
+  ]
+}

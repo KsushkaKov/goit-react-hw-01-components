@@ -10,15 +10,15 @@
   grid-template-columns: 1fr 2fr 3fr;
   margin-top: 5vh;
   align-items: center;
-  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+  box-shadow: rgba(233, 115, 4, 0.35) 0px 5px 15px;
   border-radius: 0.5rem;
 }
 
 .status {
   border-radius: 50%;
   margin: auto 1.7rem;
-  height: 15px;
-  width: 15px;
+  height: 20px;
+  width: 20px;
 }
 
 .green {

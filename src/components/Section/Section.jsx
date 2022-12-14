@@ -6,5 +6,8 @@ export const Section = ({ children }) => (
 );
 
 Section.propTypes = {
-  children: PropTypes.element.isRequired,
+  children: PropTypes.oneOfType([
+    PropTypes.arrayOf(PropTypes.element),
+    PropTypes.element,
+  ]).isRequired,
 };
